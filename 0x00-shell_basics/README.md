@@ -1,1 +1,2 @@
-#Current working directory
+#!/bin/bash
+Current working directory
