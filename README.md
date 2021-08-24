@@ -1,2 +1,2 @@
 #!/bin/bash
-im on hello, world...
+im on hello, world.
