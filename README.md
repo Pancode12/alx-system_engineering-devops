@@ -1,2 +1,2 @@
-My new work
-Life
+#!/bin/bash
+good life
