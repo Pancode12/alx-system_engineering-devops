@@ -1,2 +1,2 @@
 #!/bin/bash
-good life work
+good life work..
